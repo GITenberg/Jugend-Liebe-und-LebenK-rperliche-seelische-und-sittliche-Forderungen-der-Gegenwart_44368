@@ -1,0 +1,26 @@
+_repo: Jugend-Liebe-und-LebenK-rperliche-seelische-und-sittliche-Forderungen-der-Gegenwart_44368
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44368-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Peters, Emil
+    gutenberg_agent_id: '42713'
+    url: http://www.gutenberg.org/2009/agents/42713
+description: ''
+gutenberg_issued: '2013-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44368'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sex instruction'
+title: 'Jugend, Liebe und Leben
+
+  Körperliche, seelische und sittliche Forderungen der Gegenwart'
+url: http://www.gutenberg.org/ebooks/44368
